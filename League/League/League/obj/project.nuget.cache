@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xbfkqixBWbdBcy0ctfiNkPor0ZMJKQCij8MD0bZhU6yHZNltI0PJ7v0VvCJdAlxHdWN0H/Cu4vzN/RqTGyGYCA==",
+  "success": true,
+  "projectFilePath": "E:\\Faculty\\Undergraduate\\FMI\\2020-2021\\Computer Science Domain\\Semester 3\\Computer Science\\Advanced Programming Methods\\Labs\\Lab 7\\League\\League\\League\\League.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

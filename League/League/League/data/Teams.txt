@@ -1,0 +1,59 @@
+﻿Houston Rockets,
+Los Angeles Lakers,
+LA Clippers,
+Chicago Bulls,
+Cleveland Cavaliers,
+Utah Jazz,
+Brooklyn Nets,
+New Orleans Pelicans",
+Indiana Pacers,
+Toronto Raptors,
+Charlotte Hornets,
+Phoenix Suns,
+Portland TrailBlazers,
+Golden State Warriors,
+Washington Wizards,
+San Antonio Spurs,
+Orlando Magic,
+Denver Nuggets,
+Detroit Pistons,
+Atlanta Hawks,
+Dallas Mavericks,
+Sacramento Kings,
+Oklahoma City Thunder,
+Boston Celtics,
+New York Knicks,
+Minnesota Timberwolves,
+Miami Heat,
+Milwaukee Bucks
+
+
+
+Id Match: 0, Team 1: Id Team: 0, Name: Houston Rockets, Team 2: Id Team: 0, Name: Houston Rockets, Date Time: 13.01.2021 17:32:40
+Id Match: 1, Team 1: Id Team: 1, Name: Los Angeles Lakers, Team 2: Id Team: 0, Name: Houston Rockets, Date Time: 13.01.2021 17:32:40
+Id Match: 2, Team 1: Id Team: 2, Name: LA Clippers, Team 2: Id Team: 1, Name: Los Angeles Lakers, Date Time: 13.01.2021 17:32:40
+Id Match: 3, Team 1: Id Team: 3, Name: Chicago Bulls, Team 2: Id Team: 1, Name: Los Angeles Lakers, Date Time: 13.01.2021 17:32:40
+Id Match: 4, Team 1: Id Team: 4, Name: Cleveland Cavaliers, Team 2: Id Team: 2, Name: LA Clippers, Date Time: 13.01.2021 17:32:40
+Id Match: 5, Team 1: Id Team: 5, Name: Utah Jazz, Team 2: Id Team: 2, Name: LA Clippers, Date Time: 13.01.2021 17:32:40
+Id Match: 6, Team 1: Id Team: 6, Name: Brooklyn Nets, Team 2: Id Team: 3, Name: Chicago Bulls, Date Time: 13.01.2021 17:32:40
+Id Match: 7, Team 1: Id Team: 7, Name: New Orleans Pelicans, Team 2: Id Team: 3, Name: Chicago Bulls, Date Time: 13.01.2021 17:32:40
+Id Match: 8, Team 1: Id Team: 8, Name: Indiana Pacers, Team 2: Id Team: 4, Name: Cleveland Cavaliers, Date Time: 13.01.2021 17:32:40
+Id Match: 9, Team 1: Id Team: 9, Name: Toronto Raptors, Team 2: Id Team: 4, Name: Cleveland Cavaliers, Date Time: 13.01.2021 17:32:40
+Id Match: 10, Team 1: Id Team: 10, Name: Charlotte Hornets, Team 2: Id Team: 5, Name: Utah Jazz, Date Time: 13.01.2021 17:32:40
+Id Match: 11, Team 1: Id Team: 11, Name: Phoenix Suns, Team 2: Id Team: 5, Name: Utah Jazz, Date Time: 13.01.2021 17:32:40
+Id Match: 12, Team 1: Id Team: 12, Name: Portland TrailBlazers, Team 2: Id Team: 6, Name: Brooklyn Nets, Date Time: 13.01.2021 17:32:40
+Id Match: 13, Team 1: Id Team: 13, Name: Golden State Warriors, Team 2: Id Team: 6, Name: Brooklyn Nets, Date Time: 13.01.2021 17:32:40
+Id Match: 14, Team 1: Id Team: 14, Name: Washington Wizards, Team 2: Id Team: 7, Name: New Orleans Pelicans, Date Time: 13.01.2021 17:32:40
+Id Match: 15, Team 1: Id Team: 15, Name: San Antonio Spurs, Team 2: Id Team: 7, Name: New Orleans Pelicans, Date Time: 13.01.2021 17:32:40
+Id Match: 16, Team 1: Id Team: 16, Name: Orlando Magic, Team 2: Id Team: 8, Name: Indiana Pacers, Date Time: 13.01.2021 17:32:40
+Id Match: 17, Team 1: Id Team: 17, Name: Denver Nuggets, Team 2: Id Team: 8, Name: Indiana Pacers, Date Time: 13.01.2021 17:32:40
+Id Match: 18, Team 1: Id Team: 18, Name: Detroit Pistons, Team 2: Id Team: 9, Name: Toronto Raptors, Date Time: 13.01.2021 17:32:40
+Id Match: 19, Team 1: Id Team: 19, Name: Atlanta Hawks, Team 2: Id Team: 9, Name: Toronto Raptors, Date Time: 13.01.2021 17:32:40
+Id Match: 20, Team 1: Id Team: 20, Name: Dallas Mavericks, Team 2: Id Team: 10, Name: Charlotte Hornets, Date Time: 13.01.2021 17:32:40
+Id Match: 21, Team 1: Id Team: 21, Name: Sacramento Kings, Team 2: Id Team: 10, Name: Charlotte Hornets, Date Time: 13.01.2021 17:32:40
+Id Match: 22, Team 1: Id Team: 22, Name: Oklahoma City Thunder, Team 2: Id Team: 11, Name: Phoenix Suns, Date Time: 13.01.2021 17:32:40
+Id Match: 23, Team 1: Id Team: 23, Name: Boston Celtics, Team 2: Id Team: 11, Name: Phoenix Suns, Date Time: 13.01.2021 17:32:40
+Id Match: 24, Team 1: Id Team: 24, Name: New York Knicks, Team 2: Id Team: 12, Name: Portland TrailBlazers, Date Time: 13.01.2021 17:32:40
+Id Match: 25, Team 1: Id Team: 25, Name: Minnesota Timberwolves, Team 2: Id Team: 12, Name: Portland TrailBlazers, Date Time: 13.01.2021 17:32:40
+Id Match: 26, Team 1: Id Team: 26, Name: Miami Heat, Team 2: Id Team: 13, Name: Golden State Warriors, Date Time: 13.01.2021 17:32:40
+Id Match: 27, Team 1: Id Team: 27, Name: Milwaukee Bucks, Team 2: Id Team: 13, Name: Golden State Warriors, Date Time: 13.01.2021 17:32:40

@@ -1,0 +1,26 @@
+C:\Users\HP\Desktop\Laborator7\League\League\obj\Debug\netcoreapp3.1\League.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Laborator7\League\League\obj\Debug\netcoreapp3.1\League.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Laborator7\League\League\obj\Debug\netcoreapp3.1\League.AssemblyInfo.cs
+C:\Users\HP\Desktop\Laborator7\League\League\obj\Debug\netcoreapp3.1\League.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Laborator7\League\League\bin\Debug\netcoreapp3.1\League.exe
+C:\Users\HP\Desktop\Laborator7\League\League\bin\Debug\netcoreapp3.1\League.deps.json
+C:\Users\HP\Desktop\Laborator7\League\League\bin\Debug\netcoreapp3.1\League.runtimeconfig.json
+C:\Users\HP\Desktop\Laborator7\League\League\bin\Debug\netcoreapp3.1\League.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Laborator7\League\League\bin\Debug\netcoreapp3.1\League.dll
+C:\Users\HP\Desktop\Laborator7\League\League\bin\Debug\netcoreapp3.1\League.pdb
+C:\Users\HP\Desktop\Laborator7\League\League\obj\Debug\netcoreapp3.1\League.dll
+C:\Users\HP\Desktop\Laborator7\League\League\obj\Debug\netcoreapp3.1\League.pdb
+C:\Users\HP\Desktop\Laborator7\League\League\obj\Debug\netcoreapp3.1\League.genruntimeconfig.cache
+E:\Faculty\Undergraduate\FMI\2020-2021\Computer Science Domain\Semester 3\Computer Science\Advanced Programming Methods\Labs\Lab 7\League\League\League\bin\Debug\netcoreapp3.1\League.exe
+E:\Faculty\Undergraduate\FMI\2020-2021\Computer Science Domain\Semester 3\Computer Science\Advanced Programming Methods\Labs\Lab 7\League\League\League\bin\Debug\netcoreapp3.1\League.deps.json
+E:\Faculty\Undergraduate\FMI\2020-2021\Computer Science Domain\Semester 3\Computer Science\Advanced Programming Methods\Labs\Lab 7\League\League\League\bin\Debug\netcoreapp3.1\League.runtimeconfig.json
+E:\Faculty\Undergraduate\FMI\2020-2021\Computer Science Domain\Semester 3\Computer Science\Advanced Programming Methods\Labs\Lab 7\League\League\League\bin\Debug\netcoreapp3.1\League.runtimeconfig.dev.json
+E:\Faculty\Undergraduate\FMI\2020-2021\Computer Science Domain\Semester 3\Computer Science\Advanced Programming Methods\Labs\Lab 7\League\League\League\bin\Debug\netcoreapp3.1\League.dll
+E:\Faculty\Undergraduate\FMI\2020-2021\Computer Science Domain\Semester 3\Computer Science\Advanced Programming Methods\Labs\Lab 7\League\League\League\bin\Debug\netcoreapp3.1\League.pdb
+E:\Faculty\Undergraduate\FMI\2020-2021\Computer Science Domain\Semester 3\Computer Science\Advanced Programming Methods\Labs\Lab 7\League\League\League\obj\Debug\netcoreapp3.1\League.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faculty\Undergraduate\FMI\2020-2021\Computer Science Domain\Semester 3\Computer Science\Advanced Programming Methods\Labs\Lab 7\League\League\League\obj\Debug\netcoreapp3.1\League.AssemblyInfoInputs.cache
+E:\Faculty\Undergraduate\FMI\2020-2021\Computer Science Domain\Semester 3\Computer Science\Advanced Programming Methods\Labs\Lab 7\League\League\League\obj\Debug\netcoreapp3.1\League.AssemblyInfo.cs
+E:\Faculty\Undergraduate\FMI\2020-2021\Computer Science Domain\Semester 3\Computer Science\Advanced Programming Methods\Labs\Lab 7\League\League\League\obj\Debug\netcoreapp3.1\League.csproj.CoreCompileInputs.cache
+E:\Faculty\Undergraduate\FMI\2020-2021\Computer Science Domain\Semester 3\Computer Science\Advanced Programming Methods\Labs\Lab 7\League\League\League\obj\Debug\netcoreapp3.1\League.dll
+E:\Faculty\Undergraduate\FMI\2020-2021\Computer Science Domain\Semester 3\Computer Science\Advanced Programming Methods\Labs\Lab 7\League\League\League\obj\Debug\netcoreapp3.1\League.pdb
+E:\Faculty\Undergraduate\FMI\2020-2021\Computer Science Domain\Semester 3\Computer Science\Advanced Programming Methods\Labs\Lab 7\League\League\League\obj\Debug\netcoreapp3.1\League.genruntimeconfig.cache
